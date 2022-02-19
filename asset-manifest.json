@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tesla_redesign/static/css/main.d09ae6f5.chunk.css",
-    "main.js": "/tesla_redesign/static/js/main.8b96e612.chunk.js",
-    "main.js.map": "/tesla_redesign/static/js/main.8b96e612.chunk.js.map",
-    "runtime-main.js": "/tesla_redesign/static/js/runtime-main.a72d9e7b.js",
-    "runtime-main.js.map": "/tesla_redesign/static/js/runtime-main.a72d9e7b.js.map",
-    "static/css/2.aa641acd.chunk.css": "/tesla_redesign/static/css/2.aa641acd.chunk.css",
-    "static/js/2.bfd456a8.chunk.js": "/tesla_redesign/static/js/2.bfd456a8.chunk.js",
-    "static/js/2.bfd456a8.chunk.js.map": "/tesla_redesign/static/js/2.bfd456a8.chunk.js.map",
-    "index.html": "/tesla_redesign/index.html",
-    "static/css/2.aa641acd.chunk.css.map": "/tesla_redesign/static/css/2.aa641acd.chunk.css.map",
-    "static/css/main.d09ae6f5.chunk.css.map": "/tesla_redesign/static/css/main.d09ae6f5.chunk.css.map",
-    "static/js/2.bfd456a8.chunk.js.LICENSE.txt": "/tesla_redesign/static/js/2.bfd456a8.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/tesla_redesign/static/media/WPb0C2.356e55f0.jpg",
-    "static/media/slick-theme.css": "/tesla_redesign/static/media/slick.c94f7671.ttf"
+    "main.css": "./static/css/main.bee06570.chunk.css",
+    "main.js": "./static/js/main.599b0897.chunk.js",
+    "main.js.map": "./static/js/main.599b0897.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c36e479d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c36e479d.js.map",
+    "static/css/2.a1be631c.chunk.css": "./static/css/2.a1be631c.chunk.css",
+    "static/js/2.465ec0d6.chunk.js": "./static/js/2.465ec0d6.chunk.js",
+    "static/js/2.465ec0d6.chunk.js.map": "./static/js/2.465ec0d6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a1be631c.chunk.css.map": "./static/css/2.a1be631c.chunk.css.map",
+    "static/css/main.bee06570.chunk.css.map": "./static/css/main.bee06570.chunk.css.map",
+    "static/js/2.465ec0d6.chunk.js.LICENSE.txt": "./static/js/2.465ec0d6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/WPb0C2.356e55f0.jpg",
+    "static/media/slick-theme.css": "./static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a72d9e7b.js",
-    "static/css/2.aa641acd.chunk.css",
-    "static/js/2.bfd456a8.chunk.js",
-    "static/css/main.d09ae6f5.chunk.css",
-    "static/js/main.8b96e612.chunk.js"
+    "static/js/runtime-main.c36e479d.js",
+    "static/css/2.a1be631c.chunk.css",
+    "static/js/2.465ec0d6.chunk.js",
+    "static/css/main.bee06570.chunk.css",
+    "static/js/main.599b0897.chunk.js"
   ]
 }
